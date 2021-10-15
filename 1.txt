@@ -6,5 +6,5 @@ Merge branch git_0 to git_1
 Merge branch git_1 to git_0, resolve conflict. Left all (4) modified lines. Commit.
 Update and commit 1.txt file, modify two lines.
 Update and commit 1.txt file, modify another two lines.
-9th line updated
-10th line updated
+9th line changed
+10th line changed
