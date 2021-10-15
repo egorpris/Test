@@ -1,0 +1,10 @@
+Concatenate the last two commits using reset + commit commands.
+Change date, author and message of the last commit and add non-empty 3.txt file to it.
+Create a new commit that reverts changes of the last one.
+Update (create) and commit 3.txt(content differs with file from 12) file.
+Run command that removes all changes of the last two commits.
+Synchronize git_0 and git_1 with a remote repository.
+Clone your project to another folder.
+git_0: Change two lines in 1.txt. Commit + Push.
+git_0: Change another two lines in 1.txt.
+git_0
