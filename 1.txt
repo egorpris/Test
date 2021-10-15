@@ -1,8 +1,8 @@
 Add and commit 1.txt file with 10 lines.
 Add and commit 2.txt file with 10 lines.
 Merge branch git_0 to git_1
-Update and commit any two lines in 2.txt.
-Update and commit the same 2 lines with the different info in 2.txt
+4th line updated
+5th line updated
 Merge branch git_1 to git_0, resolve conflict. Left all (4) modified lines. Commit.
 Update and commit 1.txt file, modify two lines.
 Update and commit 1.txt file, modify another two lines.
