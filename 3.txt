@@ -1,0 +1,4 @@
+Change another line in 1.txt (not the same as in 18, 19). 
+Merge changes from Step 18 (pull) without committing changes from Step 19 and any additional commits. (goal is successful pull)
+Push.
+Return local state of Step 19(state with changes done in s19). (stash)  
