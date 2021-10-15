@@ -8,3 +8,6 @@ Clone your project to another folder.
 Change two lines in 1.txt. Commit + Push.
 new update
 new update
+git_0: Change two lines in 1.txt. Commit + Push.
+update 9th line
+update 10th line
